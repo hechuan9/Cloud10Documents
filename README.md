@@ -51,7 +51,8 @@ Park方面，Whistler覆盖了XS到L的各种feature，而Blackcomb充满了各�
 # 滑雪解学以及课程
 ## 网络课程：
 * https://www.youtube.com/watch?v=gGsZH3SqO-I&list=PLOOXcYMYNAJ3yqIHVTFMdjgZ_T91sT7GD <br /> 
-推荐人：和川 原因：我就在上面双板入门的
+推荐人：和川
+原因：我就在上面双板入门的
 
 ## 本地教练：
 请联系教练本人
