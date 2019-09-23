@@ -11,7 +11,7 @@
 西雅图主要有四座雪场：Stevens Pass, Crystal Mountain, The Summit at Snowqualmie, Mt Maker.
 
 ### Stevens Pass
-Stevens Pass 简称 SP，是SP旗下雪场。初学者道为Daisy，上面有很多learn-in-3的初学者鱼雷。Skyline是SP最有名的蓝道，很多人会刷上一天Skyline来练习自己的转弯。后山是指坐Tye Mill缆车翻过山的区域，难度要略微高于Skyline，也是蓝道小伙伴们不错的选择。
+Stevens Pass 简称 SP，是Epic旗下雪场。初学者道为Daisy，上面有很多learn-in-3的初学者鱼雷。Skyline是SP最有名的蓝道，很多人会刷上一天Skyline来练习自己的转弯。后山是指坐Tye Mill缆车翻过山的区域，难度要略微高于Skyline，也是蓝道小伙伴们不错的选择。
 
 SP拥有全华盛顿最大的Park，从XS到L的feature都有，(但是没有Half Pipe!)
 
@@ -22,7 +22,15 @@ SP的小树林很多，地形多变，也是不错的。
 ### Mt Maker
 
 ## 西雅图周边雪场
-### Whistler
+### Whistler Blackcomb
+Whistler Blackcomb 简称 Whistler。是北美第二大雪场，曾举办过冬奥会。实际上是Whislter和Blackcomb两座山的合体。地形极其丰富，是西雅图附近最好雪场。
+
+Whistler山，因为tranverse很多，非常坑单板。但Whistler风景优美，Synphony和Harmony地形丰富，也非常令人向往。新手基本都在Emerld Express的区域，可以注意避开。体能狂人可以挑战Peak to Creek 11km （滑死...）。
+
+Blackcomb的Glacier走几步有座著名的常年冰洞值得去探险。
+
+Park方面，Whistler覆盖了XS到L的各种feature，而Blackcomb充满了各种XL的feature，也有些简单和有趣的路线。有Half Pipe！
+
 ### Mt Hood Meadows
 ### Mt Hood Timberland
 ### Mt Bachelor
