@@ -36,7 +36,7 @@
 
 # 滑雪解学以及课程
 ## 网络课程：
-* https://www.youtube.com/watch?v=gGsZH3SqO-I&list=PLOOXcYMYNAJ3yqIHVTFMdjgZ_T91sT7GD
+* https://www.youtube.com/watch?v=gGsZH3SqO-I&list=PLOOXcYMYNAJ3yqIHVTFMdjgZ_T91sT7GD <br /> 
 推荐人：和川 原因：我就在上面双板入门的
 
 ## 本地教练：
