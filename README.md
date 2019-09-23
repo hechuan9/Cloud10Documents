@@ -61,6 +61,8 @@ Park方面，Whistler覆盖了XS到L的各种feature，而Blackcomb充满了各�
 
 ## 课程
 * Whistler MAX-4
+* Windell/HCSC
+可能有机会碰到谷爱琳本人哦。甚至一起训练。
 
 # 滑雪公众号
 # FAQ
