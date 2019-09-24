@@ -4,6 +4,14 @@
 
 # 滑雪组织
 ### 雪圈
+西雅图最大滑雪组织，群主是大鹏同学。每年都有会组织大巴滑雪。
+
+官方Instagram：cloud10_seattle
+
+官方公众号：西雅图雪圈
+
+电台节目：https://chineseradioseattle.files.wordpress.com/2019/03/travel_03112019.mp3
+
 ### 全球滑雪顽固分子
 
 # 雪场
@@ -48,7 +56,7 @@ Park方面，Whistler覆盖了XS到L的各种feature，而Blackcomb充满了各�
 
 ## 太阳系其它雪场
 
-# 滑雪解学以及课程
+# 滑雪教学以及课程
 ## 网络课程：
 * https://www.youtube.com/watch?v=gGsZH3SqO-I&list=PLOOXcYMYNAJ3yqIHVTFMdjgZ_T91sT7GD <br/> 
 推荐人：和川 <br/> 
@@ -67,4 +75,4 @@ Park方面，Whistler覆盖了XS到L的各种feature，而Blackcomb充满了各�
 # 滑雪公众号
 # FAQ
 * 今年哪个雪场开门最早：<br/>
-一般来说因为海拔较高，Baker和Crystal最早开放。之后是是SP，最后是Snowqualmie。一般感恩节前后开放。
+一般来说Baker和Crystal最早开放。之后是是SP，最后是Snowqualmie。一般感恩节前后开放。
