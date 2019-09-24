@@ -14,11 +14,7 @@
 
 # 雪场
 ## 西雅图主要雪场
-* 西雅图主要有四座雪场：
-    Stevens Pass 
-    Crystal Mountain
-    The Summit at Snowqualmie
-    Mt Maker
+西雅图主要有四座雪场：Stevens Pass, Crystal Mountain, The Summit at Snowqualmie, Mt Maker
 
 ### Stevens Pass
 #### 概述
