@@ -33,7 +33,7 @@ SP的小树林很多，地形多变，也是不错的。
 ### Whistler Blackcomb
 Whistler Blackcomb 简称 Whistler，Epic旗下雪场。是北美第二大雪场，曾举办过冬奥会。实际上是Whislter和Blackcomb两座山的合体。地形极其丰富，是西雅图附近最好雪场。
 
-Whistler山，因为tranverse很多，非常坑单板。但Whistler风景优美，Synphony和Harmony地形丰富，也非常令人向往。新手基本都在Emerld Express的区域，可以注意避开。体能狂人可以挑战Peak to Creek 11km （滑死...）。
+Whistler山，因为traverse很多，非常坑单板。但Whistler风景优美，Synphony和Harmony地形丰富，也非常令人向往。新手基本都在Emerld Express的区域，可以注意避开。体能狂人可以挑战Peak to Creek 11km （滑死...）。
 
 Blackcomb的Glacier走几步有座著名的常年冰洞值得去探险。
 
@@ -75,6 +75,8 @@ Whistler Max-4 有买两天送一天的优惠，在淡季还有25%的Discover Wh
 
 * Windell/HCSC <br/> 
 大神们学习Park技术的地方。这里有来自全国的大神们。可能有机会碰到谷爱琳本人哦。甚至一起训练。
+
+## Backcountry/Side Country
 
 # 滑雪公众号
 # FAQ
