@@ -19,15 +19,34 @@
 西雅图主要有四座雪场：Stevens Pass, Crystal Mountain, The Summit at Snowqualmie, Mt Maker.
 
 ### Stevens Pass
-Stevens Pass 简称 SP，Epic旗下雪场。离西雅图大概车程2小时。初学者道为Daisy，上面有很多learn-in-3的初学者鱼雷。Skyline是SP最有名的蓝道，很多人会刷上一天Skyline来练习自己的转弯。后山是指坐Tye Mill缆车翻过山的区域，难度要略微高于Skyline，也是蓝道小伙伴们不错的选择。
-
+#### 概述
+Stevens Pass 简称 SP，Epic旗下雪场。离西雅图大概车程2小时。
+#### 雪道
+初学者道为Daisy，上面有很多learn-in-3的初学者鱼雷。Skyline是SP最有名的蓝道，很多人会刷上一天Skyline来练习自己的转弯。后山是指坐Tye Mill缆车翻过山的区域，难度要略微高于Skyline，也是蓝道小伙伴们不错的选择。全山最有名的双黑是7th Heaven，下缆车的地方很坑爹，而且经常很蘑菇，不建议随便尝试。
+#### Park
 SP拥有全华盛顿最大的Park，从XS到L的feature都有，(但是没有Half Pipe!)
-
+#### 树林
 SP的小树林很多，地形多变，也是不错的。
+#### 饮食
+只有山脚下两个餐厅，都不太好吃。Rental上面那个的红烧肉还行
+#### 注意事项
+SP在旺季停车场9点就会满，建议早点到达。或者12点后等第一波人离开也可以。
 
 ### Crystal Mountain
+#### 概述
+Crystal Moutain，Ikon旗下雪场。离西雅图大概车程两小时
+#### 雪道
+初学者道为Discover，缓到令人发指。建议早点坐Forest Queen Express上去follow绿道，其实旁边两条缆道也很简单。Gondola回前山的Traverse并不好走，单板要尤其小型。Chair 6上去都是双黑，需要小心
+#### Park
+Forest Queen Express下面有个很小的Park，并没有什么Feature
+#### 饮食
+山脚，Forest Queen Express顶，Summit都有餐厅。其中Summit需要预定。Forest Queen Express顶餐厅上面面条很好吃。山脚餐厅Pizza很实在。总之比SP强很多。
+#### 注意事项
+在晴朗的天气，在Summit顶可以看到Rainier。新手可以尝试坐Gondola往返观赏。
+
 ### The Summit at Snowqualmie
 ### Mt Maker
+#### 概述
 Mt Baker, 不属于任何雪场集团，没有任何pass或者折扣。降雪量极大，属于全美前列。非常适合sidecountry或者backcountry。
 
 ## 西雅图周边雪场
