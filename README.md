@@ -76,7 +76,7 @@ Whistler Max-4 有买两天送一天的优惠，在淡季还有25%的Discover Wh
 * Windell/HCSC <br/> 
 大神们学习Park技术的地方。这里有来自全国的大神们。可能有机会碰到谷爱琳本人哦。甚至一起训练。
 
-## Backcountry/Side Country
+# Backcountry/Side Country
 
 # 滑雪公众号
 # FAQ
