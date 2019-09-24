@@ -66,5 +66,5 @@ Park方面，Whistler覆盖了XS到L的各种feature，而Blackcomb充满了各�
 
 # 滑雪公众号
 # FAQ
-* 今年哪个雪场开门最早：
+* 今年哪个雪场开门最早：<br/>
 一般来说因为海拔较高，Baker和Crystal最早开放。之后是是SP，最后是Snowqualmie。一般感恩节前后开放。
