@@ -14,13 +14,41 @@
 
 # 雪场
 ## 西雅图主要雪场
-西雅图主要有四座雪场：Stevens Pass, Crystal Mountain, The Summit at Snowqualmie, Mt Maker.
+* 西雅图主要有四座雪场：
+    Stevens Pass 
+    Crystal Mountain
+    The Summit at Snowqualmie
+    Mt Maker
 
 ### Stevens Pass
 #### 概述
-Stevens Pass 简称 SP，Epic旗下雪场。离西雅图大概车程2小时。
+Stevens Pass 简称 SP. 2018-2019年雪季被Epic集团收购. 现使用Epic Pass通票. 由于距离, 规模, 夜场等几个因素综合考虑, 是西雅图最受欢迎的雪场. 
+
+POI距离雪场大概时间: 
+
+西雅图市中心: 1h 50min
+
+UW: 1h 25 min
+
+Bellevue Transit Center: 1h 25 min
+
 #### 雪道
-初学者道为Daisy，上面有很多learn-in-3的初学者鱼雷。Skyline是SP最有名的蓝道，很多人会刷上一天Skyline来练习自己的转弯。后山是指坐Tye Mill缆车翻过山的区域，难度要略微高于Skyline，也是蓝道小伙伴们不错的选择。全山最有名的双黑是7th Heaven，下缆车的地方很坑爹，而且经常很蘑菇，不建议随便尝试。
+
+StevensPass 主要分为前山与后山两个部分. 前山为frontside, 主要有7条缆车, 集中所有的lodge. 而后山为mill valley, 只有2条缆车. 前往后山必须先坐前山的Hogsback, 下缆车后左拐滑行一小段后, 坐Tye mill上后山.
+
+##### Frontside:
+
+初学者道为Daisy，上面有很多初学者 - 鱼雷。Skyline是SP最有名的蓝道，很多人会刷上一天Skyline来练习自己的转弯。后山是指坐Tye Mill缆车翻过山的区域，难度要略微高于Skyline，也是蓝道小伙伴们不错的选择。全山最有名的双黑是7th Heaven，下缆车的地方很坑爹，而且经常很蘑菇，不建议随便尝试。
+
+1. Daisy
+
+    SP的新手区, 当每一个新手在magic carpet蹒跚学步后, 挑战的第一个缆车就是Daisy. 很多初学者也意味着很多 - 鱼雷. 雪圈的大佬们都说, 雪场最危险的地方, 第一是公园, 第二就是Daisy. 从daisy的缆车滑下来, 会分叉成两个绿道. 右边的是Tye Creek, 相对比较陡的小坡. 往左边滑则是又大又平的easy street. 两个道最后都会在daisy的缆车汇合.左边的easy street的末尾有一个xs的小park. 初学者可以从右边绕开, 而初出茅庐的新手们可以选择挑战一下这个小公园. 小公园只有两个小包和两个大box.
+
+2. Hogsback
+
+##### 后山:
+
+
 #### Park
 SP拥有全华盛顿最大的Park，从XS到L的feature都有，(但是没有Half Pipe!)
 #### 树林
