@@ -19,7 +19,7 @@
 西雅图主要有四座雪场：Stevens Pass, Crystal Mountain, The Summit at Snowqualmie, Mt Maker.
 
 ### Stevens Pass
-Stevens Pass 简称 SP，Epic旗下雪场。初学者道为Daisy，上面有很多learn-in-3的初学者鱼雷。Skyline是SP最有名的蓝道，很多人会刷上一天Skyline来练习自己的转弯。后山是指坐Tye Mill缆车翻过山的区域，难度要略微高于Skyline，也是蓝道小伙伴们不错的选择。
+Stevens Pass 简称 SP，Epic旗下雪场。离西雅图大概车程2小时。初学者道为Daisy，上面有很多learn-in-3的初学者鱼雷。Skyline是SP最有名的蓝道，很多人会刷上一天Skyline来练习自己的转弯。后山是指坐Tye Mill缆车翻过山的区域，难度要略微高于Skyline，也是蓝道小伙伴们不错的选择。
 
 SP拥有全华盛顿最大的Park，从XS到L的feature都有，(但是没有Half Pipe!)
 
@@ -28,6 +28,7 @@ SP的小树林很多，地形多变，也是不错的。
 ### Crystal Mountain
 ### The Summit at Snowqualmie
 ### Mt Maker
+Mt Baker, 不属于任何雪场集团，没有任何pass或者折扣。降雪量极大，属于全美前列。非常适合sidecountry或者backcountry。
 
 ## 西雅图周边雪场
 ### Whistler Blackcomb
@@ -76,7 +77,9 @@ Whistler Max-4 有买两天送一天的优惠，在淡季还有25%的Discover Wh
 * Windell/HCSC <br/> 
 大神们学习Park技术的地方。这里有来自全国的大神们。可能有机会碰到谷爱琳本人哦。甚至一起训练。
 
-# Backcountry/Side Country
+# Backcountry/Sidecountry
+## Mt St Helens
+## Mt Rainier
 
 # 滑雪公众号
 # FAQ
