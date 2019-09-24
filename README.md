@@ -1,6 +1,6 @@
 # 西雅图雪圈资料汇总
 
-本项目为西雅图的滑雪者们提供一些有价值的信息。本项目开源，请到 https://github.com/winaboy/Cloud10Documents 进行修改。
+本项目为西雅图的滑雪者们提供一些有价值的信息。本项目开源，请到[项目主页](https://github.com/winaboy/Cloud10Documents)进行修改。
 
 # 滑雪组织
 ### 雪圈
@@ -10,7 +10,7 @@
 
 官方公众号：西雅图雪圈
 
-电台节目：https://chineseradioseattle.files.wordpress.com/2019/03/travel_03112019.mp3
+电台节目：[Cloud 10 雪圈带你嗨翻冬日](https://chineseradioseattle.files.wordpress.com/2019/03/travel_03112019.mp3)
 
 ### 全球滑雪顽固分子
 
@@ -78,7 +78,7 @@ Park方面，Whistler覆盖了XS到L的各种feature，而Blackcomb充满了各�
 
 # 滑雪教学以及课程
 ## 网络课程：
-* https://www.youtube.com/watch?v=gGsZH3SqO-I&list=PLOOXcYMYNAJ3yqIHVTFMdjgZ_T91sT7GD <br/> 
+* [How to Ski](https://www.youtube.com/watch?v=gGsZH3SqO-I&list=PLOOXcYMYNAJ3yqIHVTFMdjgZ_T91sT7GD) <br/> 
 推荐人：和川 <br/> 
 原因：我就在上面双板入门的
 
