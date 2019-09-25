@@ -29,7 +29,6 @@ POI距离雪场大概时间:
 * Bellevue Transit Center: 1h 25 min
 
 #### 雪道
-
 StevensPass 主要分为前山与后山两个部分. 前山为frontside, 主要有7条缆车, 集中所有的lodge. 而后山为mill valley, 只有2条缆车. 前往后山必须先坐前山的Hogsback, 下缆车后左拐滑行一小段后, 坐Tye mill上后山.
 
 ##### Frontside:
@@ -92,7 +91,7 @@ Park方面，Whistler覆盖了XS到L的各种feature，而Blackcomb充满了各�
 ## 北美其它雪场
 Epic集团和Ikon集团几乎垄断了北美的滑雪场，所以出门滑雪不可避免的要考虑这两个Pass，很多有名雪场一天可以达到200美金，而无限制季票一般700-1000不等。飞出去滑雪购买Pass是很容易回本的。除了这两个集团，还有Mountain Collective，不过跟Ikon高度重合，这里和放在一起讨论了。
 
-刷山这件事可以参考ZRanking(https://www.zrankings.com/)，很多人对具体排名有意见，不过前20的雪场都是很有名，很好的。不过很有可能人很多
+刷山这件事可以参考[ZRanking](https://www.zrankings.com/)，很多人对具体排名有意见，不过前20的雪场都是很有名，很好的。不过很有可能人很多
 ### Epic 旗下雪场
 Epic在西雅图周边主要是SP和Whistler。北美范围有名雪场主要是Vail, Beaver Creek, Park City。特别值得提到的是，Epic Pass的合作伙伴Telluride人少，地形好，是个非常的雪场。
 #### Vail
