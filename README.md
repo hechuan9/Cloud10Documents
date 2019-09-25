@@ -11,6 +11,9 @@
 电台节目：[Cloud 10 雪圈带你嗨翻冬日](https://chineseradioseattle.files.wordpress.com/2019/03/travel_03112019.mp3)
 
 ### 全球滑雪顽固分子
+我其实不知道他们头是谁，不过他们有[Facebook page](https://www.facebook.com/wangu.snow/)
+
+雪圈跟他们很多在Portland的成员有些接触。比如童总，林记店小二。有的时候还能弄到Oregon几个雪场的折扣。
 
 # 雪场
 ## 西雅图主要雪场
@@ -114,6 +117,8 @@ Park方面，Whistler覆盖了XS到L的各种feature，而Blackcomb充满了各�
 
 ## 课程
 * SP Learn-in-3
+很多初学者的第一节课就这个，价格非常实惠，只面向初学者，教学严重参差不齐。因为对教练资质没什么要求，经常会碰到啥也不会的教练。不过反正他们包教包会，学不会可以无限学，以后可以优惠买季票，对于初学者也是不错的选择。
+
 * Whistler Max-4 <br/> 
 这算是西雅图最适合进阶滑雪水平的地方，Whistler的Max-4教练水平顶呱呱，一班最多四人，一天4小时，价格优惠。<br/>
 Whistler Max-4 有买两天送一天的优惠，在淡季还有25%的Discover Whistler折扣，不计雪票，每天课程不到100美金。非常实惠。
