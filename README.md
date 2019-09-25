@@ -17,7 +17,8 @@
 
 # 雪场
 ## 西雅图主要雪场
-西雅图主要有四座雪场：Stevens Pass, Crystal Mountain, The Summit at Snowqualmie, Mt Maker
+西雅图主要有四座雪场：Stevens Pass, Crystal Mountain, The Summit at Snowqualmie, Mt Maker</br>
+亚麻有[员工折扣票](https://yeti.aka.amazon.com/#/)，属于内网地址。
 
 ### Stevens Pass
 #### 概述
@@ -83,6 +84,8 @@ Whistler山，因为traverse很多，非常坑单板。但Whistler风景优美�
 Blackcomb的Glacier走几步有座著名的常年冰洞值得去探险。
 
 Park方面，Whistler覆盖了XS到L的各种feature，而Blackcomb充满了各种XL的feature，也有些简单和有趣的路线。有Half Pipe！
+### Lift Ticket
+单天票价会浮动，经常超过100刀。除了Epic Pass以外，也可以购买[Edge Card](https://www.whistlerblackcomb.com/plan-your-trip/lift-access/edge-cards.aspx)。
 
 ### Mt Hood Meadows
 ### Mt Hood Timberland
