@@ -24,12 +24,9 @@
 Stevens Pass 简称 SP。 2018-2019年雪季被Epic集团收购. 现使用Epic Pass通票. 由于距离, 规模, 夜场等几个因素综合考虑, 是西雅图最受欢迎的雪场. 
 
 POI距离雪场大概时间: 
-
-西雅图市中心: 1h 50min
-
-UW: 1h 25 min
-
-Bellevue Transit Center: 1h 25 min
+* 西雅图市中心: 1h 50min
+* UW: 1h 25 min
+* Bellevue Transit Center: 1h 25 min
 
 #### 雪道
 
@@ -58,7 +55,8 @@ SP的小树林很多，地形多变，也是不错的。
 #### 饮食
 只有山脚下两个餐厅，都不太好吃。Rental上面那个的红烧肉还行
 #### 注意事项
-SP在旺季停车场9点就会满，建议早点到达。或者12点后等第一波人离开也可以。
+* SP在旺季停车场9点就会满，建议早点到达。或者12点后等第一波人离开也可以。
+* 一般Carpool约定是7点Bothell P&R见面，迟到不等。
 
 ### Crystal Mountain
 #### 概述
