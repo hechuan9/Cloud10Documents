@@ -34,16 +34,19 @@ StevensPass 主要分为前山与后山两个部分. 前山为frontside, 主要�
 
 ##### Frontside:
 
-初学者道为Daisy，上面有很多初学者 - 鱼雷。Skyline是SP最有名的蓝道，很多人会刷上一天Skyline来练习自己的转弯。后山是指坐Tye Mill缆车翻过山的区域，难度要略微高于Skyline，也是蓝道小伙伴们不错的选择。全山最有名的双黑是7th Heaven，下缆车的地方很坑爹，而且经常很蘑菇，不建议随便尝试。
-
-1. Daisy
-
-    SP的新手区, 当每一个新手在magic carpet蹒跚学步后, 挑战的第一个缆车就是Daisy. 很多初学者也意味着很多 - 鱼雷. 雪圈的大佬们都说, 雪场最危险的地方, 第一是公园, 第二就是Daisy. 从daisy的缆车滑下来, 会分叉成两个绿道. 右边的是Tye Creek, 相对比较陡的小坡. 往左边滑则是又大又平的easy street. 两个道最后都会在daisy的缆车汇合.左边的easy street的末尾有一个xs的小park. 初学者可以从右边绕开, 而初出茅庐的新手们可以选择挑战一下这个小公园. 小公园只有两个小包和两个大box.
+初学者道为Daisy，上面有很多初学者 - 鱼雷。
+1. Daisy <br/>
+SP的新手区, 当每一个新手在magic carpet蹒跚学步后, 挑战的第一个缆车就是Daisy. 很多初学者也意味着很多 - 鱼雷. 雪圈的大佬们都说, 雪场最危险的地方, 第一是公园, 第二就是Daisy. 从daisy的缆车滑下来, 会分叉成两个绿道. 右边的是Tye Creek, 相对比较陡的小坡. 往左边滑则是又大又平的easy street. 两个道最后都会在daisy的缆车汇合.左边的easy street的末尾有一个xs的小park. 初学者可以从右边绕开, 而初出茅庐的新手们可以选择挑战一下这个小公园. 小公园只有两个小包和两个大box.
 
 2. Hogsback
+3. Skyline  <br/>
+Skyline是SP最有名的蓝道，很多人会刷上一天Skyline来练习自己的转弯。
+
+3. 7th Heaven <br/>
+全山最有名的双黑是7th Heaven，下缆车的地方很坑爹，而且经常很蘑菇，不建议随便尝试。
 
 ##### 后山:
-
+Groomed runs难度要略微高于Skyline，也是蓝道小伙伴们不错的选择。
 
 #### Park
 SP拥有全华盛顿最大的Park，从XS到L的feature都有，(但是没有Half Pipe!)
