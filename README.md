@@ -141,3 +141,7 @@ Whistler Max-4 有买两天送一天的优惠，在淡季还有25%的Discover Wh
 # FAQ
 * 今年哪个雪场开门最早：<br/>
 一般来说Baker和Crystal最早开放。之后是是SP，最后是Snowqualmie。一般感恩节前后开放。
+* 双板好还是单板好？
+双板好，因为这个Repository的owner滑双板。
+* 双板帅还是单板帅？
+双板帅，因为这个Repository的owner滑双板。
