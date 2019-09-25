@@ -1,7 +1,7 @@
 本项目为西雅图的滑雪者们提供一些有价值的信息。本项目开源，请到[项目主页](https://github.com/winaboy/Cloud10Documents)进行修改。
 
 # 滑雪组织
-### 雪圈
+## 雪圈
 西雅图最大滑雪组织，群主是大鹏同学。每年都有会组织大巴滑雪。
 
 官方Instagram：cloud10_seattle
@@ -10,7 +10,7 @@
 
 电台节目：[Cloud 10 雪圈带你嗨翻冬日](https://chineseradioseattle.files.wordpress.com/2019/03/travel_03112019.mp3)
 
-### 全球滑雪顽固分子
+## 全球滑雪顽固分子
 我其实不知道他们头是谁，不过他们有[Facebook page](https://www.facebook.com/wangu.snow/)
 
 雪圈跟他们很多在Portland的成员有些接触。比如童总，林记店小二。有的时候还能弄到Oregon几个雪场的折扣。
