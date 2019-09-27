@@ -62,7 +62,7 @@ SP的小树林很多，地形多变，也是不错的。
 #### 概述
 Crystal Moutain，Ikon旗下雪场。离西雅图大概车程两小时
 #### 雪道
-初学者道为Discover，缓到令人发指。建议早点坐Forest Queen Express上去follow绿道，其实旁边两条缆道也很简单。Gondola回前山的Traverse并不好走，单板要尤其小型。Chair 6上去都是双黑，需要小心
+初学者道为Discover，缓到令人发指。建议早点坐Forest Queen Express上去follow绿道，其实旁边两条蓝道也很简单。Gondola回前山的Traverse并不好走，单板要尤其小型。Chair 6上去都是双黑，需要小心
 #### Park
 Forest Queen Express下面有个很小的Park，并没有什么Feature
 #### 饮食
