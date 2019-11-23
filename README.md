@@ -84,12 +84,42 @@ Whistler山，因为traverse很多，非常坑单板。但Whistler风景优美�
 Blackcomb的Glacier走几步有座著名的常年冰洞值得去探险。
 
 Park方面，Whistler覆盖了XS到L的各种feature，而Blackcomb充满了各种XL的feature，也有些简单和有趣的路线。有Half Pipe！
-### Lift Ticket
+#### Lift Ticket
 单天票价会浮动，经常超过100刀。除了Epic Pass以外，也可以购买[Edge Card](https://www.whistlerblackcomb.com/plan-your-trip/lift-access/edge-cards.aspx)。
 
 ### Mt Hood Meadows
 ### Mt Hood Timberland
 ### Mt Bachelor
+虽然同属Pacific Northwest，Oregon的雪场要干很多，甚至要接近科罗拉多的程度。尤其是Mt Bachelor，雪质非常好，属于一枚被严重低估的宝藏。Mt Bachelor是全美单座山峰第二大的雪场（第一是Vail），周围基本没有什么别的山，所以风也会很大。硬数据上3683 acres，71个run，3365ft的落差，不算傲视群雄，也不算差。
+
+一般来讲，summit上去蓝道下来的地方算前山，剩下要翻过去的算后山。
+
+后山缆车要风小的时候才能上去，然后的感觉是，哇塞，全是野雪，全山都是你的。
+
+新手建议先从Pine Martin玩起，然后选择顺时针或者逆时针traverse，根据雪旷和开放情况。有大神告诉我，好像是早上Cloudchaser的雪好，下午Outback 和Northwest的雪好。不过这还是取决于日照情况和风。反正我也不懂...
+
+Cloudchaser以其非常多样的小树林出名，而Northwest蘑菇很多，还是蛮可怕的。不过如果在前山两侧滑雪请注意好自己所在的位置，否则可能会爬很久。
+
+后山缆车要风小的时候才能上去，然后的感觉是，哇塞，全是野雪，全山都是你的。不过难度清一色双黑，不过表示很明显，不太会有人自虐下去的。
+
+这座山互通很不方便，建议带对讲机，集合提前安排好路线，否则很容易滑散的。
+
+#### 雪票
+不属于任何联盟。本身雪票并不算贵。11月经常会有很大的折扣，那时候买一天大概只有50左右。
+
+#### Park
+有4座Terrain Park，但是我不熟。有个很小的Half Pipe。
+
+#### 食物
+主要是Sunrise Lodge和West Village Lodge。West Village比较大，选择也比较多，Sunrise较小，食物选择也少，做的也慢。食物没什么特别，不算很好吃，也不算太难吃。
+
+Bend食物选择极其多，不过本人对吃没太大兴趣，就不乱推荐了。
+
+#### 交通
+离西雅图车程6小时，离雪场1小时左右的地方有座小机场RDM。
+
+#### 住宿
+本身有Lodge，价格不明。不过山下小镇Bend价廉物美，而且盛产啤酒。
 
 ## 北美其它雪场
 Epic集团和Ikon集团几乎垄断了北美的滑雪场，所以出门滑雪不可避免的要考虑这两个Pass，很多有名雪场一天可以达到200美金，而无限制季票一般700-1000不等。飞出去滑雪购买Pass是很容易回本的。除了这两个集团，还有Mountain Collective，不过跟Ikon高度重合，这里和放在一起讨论了。
