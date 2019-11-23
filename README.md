@@ -92,7 +92,7 @@ Park方面，Whistler覆盖了XS到L的各种feature，而Blackcomb充满了各�
 ### Mt Bachelor
 虽然同属Pacific Northwest，Oregon的雪场要干很多，甚至要接近科罗拉多的程度。尤其是Mt Bachelor，雪质非常好，属于一枚被严重低估的宝藏。Mt Bachelor是全美单座山峰第二大的雪场（第一是Vail），周围基本没有什么别的山，所以风也会很大。硬数据上3683 acres，71个run，3365ft的落差，不算傲视群雄，也不算差。
 
-一般来讲，Summit Exoress上去蓝道下来的地方算前山，剩下要翻过去的算后山。
+一般来讲，Summit Express上去蓝道下来的地方算前山，剩下要翻过去的算后山。
 
 新手建议先从Pine Martin玩起，然后选择顺时针或者逆时针traverse，根据雪旷和开放情况。有大神告诉我，好像是早上Cloudchaser的雪好，下午Outback 和Northwest的雪好。不过这还是取决于日照情况和风。反正我也不懂...
 
