@@ -87,6 +87,11 @@ Park方面，Whistler覆盖了XS到L的各种feature，而Blackcomb充满了各�
 #### Lift Ticket
 单天票价会浮动，经常超过100刀。除了Epic Pass以外，也可以购买[Edge Card](https://www.whistlerblackcomb.com/plan-your-trip/lift-access/edge-cards.aspx)。
 
+#### Fresh Tracks
+Whistler的fresh tracks的性价比天际。大概26加币，你可以享受一个上午的fresh tracks。流程大概是，首先要提前买好Whislter的fresh tracks，然后在7点前到达Whistler gondola。取决于当天是不是powder day，如果是大power day，甚至需要6点到达缆车。缆车会在7：15开始上行，大概会给你20分钟左右的时间吃早饭（免费，自助餐），约8：20分敲钟放人出去滑。那时候所有的道都没人滑过，groom全是完美的面条雪，而off-piste全部都是powder！
+
+如果采用正确的滑行顺序，甚至可能整个上午都能滑fresh tracks。其核心是算好peak express, harmony express, symphony express 开启时间，并在他们开启前到达上行口。这是我的顺序：先滑两圈big red express附近的groomed run热身，然后在第二次big red express上行后，右转直奔peak express。这时候会有两个选择，如果前山whistler bowl雪非常好，可以选择whistler bowl直下，总体靠右滑行，最后右边转入harmony方向，然后乘坐harmony express上行滑symphony。第二个选择是从直接转后山的symphony方向，这样可以享受更多的symphony的fresh track。无论选择哪个，都有一个保证的fresh track，和数个不错的powder run。
+
 ### Mt Hood Meadows
 ### Mt Hood Timberland
 ### Mt Bachelor
