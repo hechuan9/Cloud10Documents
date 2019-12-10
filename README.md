@@ -147,7 +147,7 @@ Ikon在西雅图周边主要是Crystal, 还有次数有限的Snowqualmie。北�
 ## 太阳系其它雪场
 
 # 滑雪教学以及课程
-## 网络课程：
+## 线上课程：
 * [How to Ski](https://www.youtube.com/watch?v=gGsZH3SqO-I&list=PLOOXcYMYNAJ3yqIHVTFMdjgZ_T91sT7GD) <br/> 
 推荐人：和川 <br/> 
 原因：我就在上面双板入门的
@@ -157,19 +157,13 @@ Ikon在西雅图周边主要是Crystal, 还有次数有限的Snowqualmie。北�
 1. CASI 教练
 2. CSIA 教练
 
-## 课程
-### 线下课程
+## 线下课程
 * Whistler Max-4 <br/> 
 这算是西雅图最适合进阶滑雪水平的地方，Whistler的Max-4教练水平顶呱呱，一班最多四人，一天4小时，价格优惠。<br/>
 Whistler Max-4 有买两天送一天的优惠，在淡季还有25%的Discover Whistler折扣，不计雪票，每天课程不到100美金。非常实惠。
 
 * Windell/HCSC <br/> 
 大神们学习Park技术的地方。这里有来自全国的大神们。可能有机会碰到谷爱琳本人哦。甚至一起训练。
-
-### 线上课程
-#### 单板
-#### 双板
-https://www.youtube.com/user/elatemedia 推荐人和川，很适合初学者
 
 # Backcountry/Sidecountry
 ## Mt St Helens
