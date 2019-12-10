@@ -169,6 +169,7 @@ Whistler Max-4 有买两天送一天的优惠，在淡季还有25%的Discover Wh
 ### 线上课程
 #### 单板
 #### 双板
+https://www.youtube.com/user/elatemedia 推荐人和川，很适合初学者
 
 # Backcountry/Sidecountry
 ## Mt St Helens
